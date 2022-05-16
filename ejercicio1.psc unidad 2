@@ -1,0 +1,17 @@
+Algoritmo ejercicio2
+	Definir nota ,a,b,c Como Real
+	leer a
+	Leer b
+	Leer c
+	nota=( a+b+c)
+	Si (nota >= 70) y (nota <=70) Entonces
+		Escribir " alaumno su calificacion es " nota " por lo tanto esta aprobado"
+	SiNo
+		Escribir " alaumno su calificacion es " nota " por lo tanto esta desaprobado"
+		
+	Fin Si
+	
+	
+	
+	
+FinAlgoritmo
